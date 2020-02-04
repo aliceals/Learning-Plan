@@ -3,7 +3,6 @@ Plan of attack for study after Dev Academy
 
 ## To dos
  - Fix old apps
- - Redo portfolio site
  - Add more tests to old apps
  - Set up CI/CD in splinter 
  - Set up CI/CD in Bookem
